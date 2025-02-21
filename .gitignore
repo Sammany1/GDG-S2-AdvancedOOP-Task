@@ -1,0 +1,23 @@
+# Build results
+bin/
+obj/
+publish/
+
+# Visual Studio specific files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# VS Code settings
+.vscode/
+
+# Auto generated files
+*.pidb
+*.cache
+.DS_Store
+
+# NuGet packages
+*.nupkg
+
